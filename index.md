@@ -91,5 +91,3 @@ This is what you can see at https://realsvik.shinyapps.io/app1
 </tr>
 </table>
 
-
-
