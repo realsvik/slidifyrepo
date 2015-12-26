@@ -1,0 +1,471 @@
+url;name;country;price;color;taste;yearPos;usdPrice;colorFac
+http://winestyle.ru/products/Abrau-Durso-Brut.html;Abrau-Durso, Brut;Russia;396;white;dry;NA;6;white
+http://winestyle.ru/products/Abrau-Durso-Semidolce.html;Abrau-Durso, Semidolce;Russia;396;white;semi sweet;NA;6;white
+http://winestyle.ru/products/Moet-Chandon-Brut-Imperial-in-gift-box.html;Moet & Chandon, Brut "Imperial", in gift box;France;4175;white;dry;NA;58;white
+http://winestyle.ru/products/Martini-Prosecco-DOC.html;Martini Prosecco DOC;Italy;953;white;dry;NA;13;white
+http://winestyle.ru/products/Santero-Brut.html;Santero, Brut;Italy;558;white;dry;NA;8;white
+http://winestyle.ru/products/Gancia-Asti-DOCG-750.html;Gancia Asti DOCG;Italy;667;white;sweet;NA;9;white
+http://winestyle.ru/products/Gancia-Brut.html;Gancia, Brut;Italy;775;white;dry;NA;11;white
+http://winestyle.ru/products/Lambrusco-DellEmilia-Poderi-Alti-IGT-750.html;Lambrusco Dell'Emilia Poderi Alti IGT;Italy;411;white;semi sweet;NA;6;white
+http://winestyle.ru/products/Santero-Prosecco-DOC.html;Santero, Prosecco DOC;Italy;730;white;dry;NA;10;white
+http://winestyle.ru/products/Gancia-Grand-Reale-Dolce.html;Gancia, "Grand Reale" Dolce;Italy;390;white;sweet;NA;5;white
+http://winestyle.ru/products/Gancia-Cuvee-Platinum-Valdobbiadene-Prosecco-DOCG-Superiore.html;Gancia, Valdobbiadene Prosecco DOCG Superiore;Italy;882;not assigned;dry;NA;12;not assigned
+http://winestyle.ru/products/Abrau-Durso-Victor-Dravigny-Brut.html;Abrau-Durso, "Victor Dravigny" Brut;Russia;916;white;dry;NA;13;white
+http://winestyle.ru/products/Gancia-P-R-Ose-Brut.html;Gancia Rose Brut;Italy;844;rose;dry;NA;12;rose
+http://winestyle.ru/products/Jeio-Prosecco-DOC-Brut.html;Jeio Prosecco DOC Brut;Italy;1169;white;dry;NA;16;white
+http://winestyle.ru/products/Abrau-Durso-Rose-semisecco.html;Abrau-Durso, Rose semisecco;Russia;396;rose;semi dry;NA;6;rose
+http://winestyle.ru/products/Rossiyskoe-Champagne-Semi-Sweet.html;"Rossiyskoe Champagne" Semi-Sweet;Russia;186;white;semi sweet;NA;3;white
+http://winestyle.ru/products/Marchesini-Lambrusco-Emilia-IGT-Bianco.html;"Marchesini" Lambrusco Emilia IGT, Bianco;Italy;440;white;semi sweet;NA;6;white
+http://winestyle.ru/products/Lambrusco-Modena-IGT-750.html;Chiarli, Lambrusco Dell'Emilia IGT, Rosso Amabile;Italy;748;red;semi sweet;NA;10;red
+http://winestyle.ru/products/Veuve-Clicquot-Brut-750.html;Veuve Clicquot Brut;France;4485;white;dry;NA;62;white
+http://winestyle.ru/products/Abbazia-Lambrusco-Rosato-Frizzante-Emilia-IGT.html;Abbazia Lambrusco Rosato Frizzante, Emilia IGT;Italy;384;rose;semi sweet;NA;5;rose
+http://winestyle.ru/products/Cavicchioli-Bianco-da-Lambrusco-Dolce.html;Cavicchioli, Bianco da Lambrusco;Italy;493;white;semi sweet;NA;7;white
+http://winestyle.ru/products/Patriarche-Heritage-Brut-gift-box.html;Patriarche, "Heritage" Brut, gift box;France;913;white;dry;NA;13;white
+http://winestyle.ru/products/Mondoro-Silver-Semi-Secco-with-gift-box.html;Mondoro Silver Semi Secco with gift box;Italy;1100;white;semi dry;NA;15;white
+http://winestyle.ru/products/Moet-Chandon-Brut-Imperial-Rose-in-gift-box-2009.html;Moet & Chandon Brut Imperial Rose in gift box;France;5138;rose;dry;NA;71;rose
+http://winestyle.ru/products/Cinzano-Asti-Spumante-DOCG.html;Cinzano, Asti Spumante DOCG;Italy;912;white;sweet;NA;13;white
+http://winestyle.ru/products/Duc-de-Valmer-Brut.html;Duc de Valmer Brut;France;675;white;dry;NA;9;white
+http://winestyle.ru/products/Contarini-Valdobbiadene-Prosecco-Superiore-DOCG-Brut-Millesimato.html;Contarini, Valdobbiadene Prosecco Superiore DOCG Brut Millesimato;Italy;809;white;dry;NA;11;white
+http://winestyle.ru/products/Abrau-Durso-Premium-Gold-Brut.html;Abrau-Durso Premium Gold, Brut;Russia;989;white;dry;NA;14;white
+http://winestyle.ru/products/Giacobazzi-Lambrusco-dell-Emilia-IGT-Rosso.html;Giacobazzi, Lambrusco dell'Emilia IGT Rosso;Italy;495;red;semi sweet;NA;7;red
+http://winestyle.ru/products/Patriarche-Heritage-Brut.html;Patriarche Heritage Brut;France;761;white;dry;NA;11;white
+http://winestyle.ru/products/Martini-Brut.html;Martini Brut;Italy;1087;white;dry;NA;15;white
+http://winestyle.ru/products/Asti-Mondoro-750.html;Asti Mondoro with gift box;Italy;1324;white;sweet;NA;18;white
+http://winestyle.ru/products/Veuve-Clicquot-Brut-Rose-with-gift-box.html;Veuve Clicquot, Brut Rose, with gift box;France;5737;rose;dry;NA;80;rose
+http://winestyle.ru/products/Martini-Brut-gift-box.html;Martini Brut, gift box;Italy;1195;white;dry;NA;17;white
+http://winestyle.ru/products/Nino-Franco-Rustico-Treviso-DOC.html;Nino Franco,"Rustico", Treviso DOC;Italy;1538;white;dry;NA;21;white
+http://winestyle.ru/products/Prosecco-Valdobbiadene-Gialloro-DOC.html;Prosecco Valdobbiadene Giall'Oro DOC;Italy;1889;white;dry;NA;26;white
+http://winestyle.ru/products/Ruinart-Rose-coffret.html;Ruinart, Rose in gift box;France;6429;rose;dry;NA;89;rose
+http://winestyle.ru/products/Master-Legacy-Lev-Lolytzin-Demi-Sweet.html;"Master Legacy "Lev Golytzin" Demi-Sweet;Russia;293;not assigned;not assigned;NA;4;not assigned
+http://winestyle.ru/products/Saint-Petersburg-Traditional-Brut.html;"Saint-Petersburg Traditional", Brut;Russia;188;white;dry;NA;3;white
+http://winestyle.ru/products/Freschello-Piu-Rosato.html;"Freschello Piu" Rosato;Italy;491;rose;dry;NA;7;rose
+http://winestyle.ru/products/De-Perriere-Blanc-de-Blancs-Brut.html;De Perriere Blanc de Blancs Brut;France;1064;white;dry;NA;15;white
+http://winestyle.ru/products/R-de-Ruinart.html;«R» de Ruinart Brut;France;4721;white;dry;NA;66;white
+http://winestyle.ru/products/Canella-Bellini.html;Canella, "Bellini";Italy;1308;rose;not assigned;NA;18;rose
+http://winestyle.ru/products/Catherine-Necklace.html;"Catherine Necklace";Russia;283;rose;semi sweet;NA;4;rose
+http://winestyle.ru/products/Abrau-Durso-Imperial-Brut-L-Art-Nouveau-gift-box.html;Abrau-Durso, "Imperial" Brut L’Art Nouveau, gift box;Russia;1757;white;dry;NA;24;white
+http://winestyle.ru/products/Casa-Defra-Prosecco.html;Casa Defra Prosecco, 200 ìë;Italy;393;white;dry;NA;5;white
+http://winestyle.ru/products/Santero-Moscato.html;Santero, Moscato;Italy;585;white;sweet;NA;8;white
+http://winestyle.ru/products/Cavicchioli-Grasparossa-Secco-DOC.html;Cavicchioli, Grasparossa Secco DOC;Italy;627;red;dry;NA;9;red
+http://winestyle.ru/products/Canti-Pinot-Grigio-Brut.html;Canti, Pinot Grigio Brut;Italy;891;white;dry;NA;12;white
+http://winestyle.ru/products/Asti-Mondoro-in-gift-box.html;Asti Mondoro in gift box, 1500 ìë;Italy;2508;white;sweet;NA;35;white
+http://winestyle.ru/products/Abrau-Durso-Victor-Dravigny-Rouge.html;Abrau-Durso, "Victor Dravigny" Rouge;Russia;916;red;semi sweet;NA;13;red
+http://winestyle.ru/products/Codorniu-Clasico-Brut.html;"Codorniu" Clasico Brut;Spain;943;white;dry;NA;13;white
+http://winestyle.ru/products/PassaParola-Prosecco-DOC-Spumante-Brut.html;"PassaParola", Prosecco DOC Spumante Brut;Italy;1129;white;dry;NA;16;white
+http://winestyle.ru/products/Valdo-Prosecco-Treviso-DOC-gift-box.html;Valdo, Prosecco, Treviso DOC, gift box;Italy;1322;white;dry;NA;18;white
+http://winestyle.ru/products/Master-Legacy-Lev-Lolytzin-Demi-Sec.html;"Master Legacy "Lev Golytzin" Demi-Sec;Russia;293;not assigned;not assigned;NA;4;not assigned
+http://winestyle.ru/products/Simonnet-Febvre-Cremant-de-Bourgogne-Brut-Rose-gift-box.html;Simonnet-Febvre, "Cremant de Bourgogne" Brut Rose, gift box;France;1859;rose;dry;NA;26;rose
+http://winestyle.ru/products/Segura-Viudas-Cava-Brut-Reserva-Heredad-gift-box.html;Segura Viudas, Cava Brut "Reserva Heredad", gift box;Spain;2759;white;dry;NA;38;white
+http://winestyle.ru/products/Mondoro-Gran-Cuvee-Rose-gift-box.html;Mondoro, "Gran Cuvee" Rose, gift box;Italy;1423;not assigned;not assigned;NA;20;not assigned
+http://winestyle.ru/products/Abbazia-Asti-Spumante-DOCG-gift-box.html;"Abbazia" Asti Spumante DOCG, gift box;Italy;774;white;sweet;NA;11;white
+http://winestyle.ru/products/Cavicchioli-Lambrusco-Salamino-Di-Santa-Croce-Semisecco.html;Cavicchioli, "Lambrusco Salamino Di Santa Croce" Semisecco;Italy;750;red;semi dry;NA;10;red
+http://winestyle.ru/products/Grande-Cuvee-1531-de-Aimery-Cremant-de-Limoux.html;"Grande Cuvee 1531" de Aimery, Cremant de Limoux;France;1292;white;dry;NA;18;white
+http://winestyle.ru/products/Cristal-AOC-2006-gift-box.html;"Cristal" AOC, 2006, gift box;France;19487;white;dry;2006;271;white
+http://winestyle.ru/products/Freixenet-Cava-Carta-Nevada-Semi-Seco.html;Freixenet Cava Carta Nevada Semi Seco;Spain;1267;white;semi dry;NA;18;white
+http://winestyle.ru/products/Abrau-Durso-Abrau-Light-Rose.html;Abrau-Durso, Abrau Light, Rose;Russia;341;rose;semi sweet;NA;5;rose
+http://winestyle.ru/products/Riunite-Lambrusco-Rosso-Emilia-IGT.html;Riunite, Lambrusco Rosso, Emilia IGT;Italy;553;red;semi sweet;NA;8;red
+http://winestyle.ru/products/Duc-de-Valmer-Demi-Sec.html;Duc de Valmer Demi-Sec;France;675;white;semi dry;NA;9;white
+http://winestyle.ru/products/Cavicchioli-Malvasia.html;Cavicchioli, Malvasia;Italy;675;white;semi sweet;NA;9;white
+http://winestyle.ru/products/Santero-Asti-DOCG.html;Santero, Asti DOCG;Italy;739;white;sweet;NA;10;white
+http://winestyle.ru/products/Patriarche-Heritage-Rose.html;Patriarche Heritage Rose;France;761;rose;dry;NA;11;rose
+http://winestyle.ru/products/Morando-Ferrina-Prosecco-DOC-Brut.html;Morando, "Ferrina" Prosecco DOC Brut;Italy;773;white;dry;NA;11;white
+http://winestyle.ru/products/Trivento-Brut-Nature.html;Trivento, Brut Nature;Argentina;723;white;dry;NA;10;white
+http://winestyle.ru/products/Gancia-Asti-Vintage-DOCG-gift-box.html;Gancia, Asti Vintage DOCG, gift box;Italy;847;white;sweet;NA;12;white
+http://winestyle.ru/products/Modavin-Spumante-Brut-Prosecco-DOC.html;"Modavin" Spumante Brut Prosecco DOC;Italy;838;white;dry;NA;12;white
+http://winestyle.ru/products/Toso-Prosecco-DOC-750.html;Toso, Prosecco DOC;Italy;842;white;dry;NA;12;white
+http://winestyle.ru/products/Lambrusco-Grasparossa-di-Castelvetro-DOC-750.html;Lambrusco Grasparossa di Castelvetro DOC;Italy;938;red;semi sweet;NA;13;red
+http://winestyle.ru/products/Sogrape-Vinhos-Mateus-Rose-Sparkling-Brut.html;Sogrape Vinhos, "Mateus" Rose Sparkling Brut;Portugal;946;rose;dry;NA;13;rose
+http://winestyle.ru/products/Codorniu-Clasico-Brut-Rose.html;"Codorniu" Clasico Brut Rose;Spain;980;rose;dry;NA;14;rose
+http://winestyle.ru/products/Mondoro-Gran-Cuvee-Rose.html;Mondoro, "Gran Cuvee" Rose;Italy;1343;not assigned;not assigned;NA;19;not assigned
+http://winestyle.ru/products/Botter-Prosecco-Spumante.html;Botter, Prosecco Spumante;Italy;1281;white;dry;NA;18;white
+http://winestyle.ru/products/Dom-Perignon-2005-gift-box.html;"Dom Perignon", 2005, gift box;France;15753;white;dry;2005;219;white
+http://winestyle.ru/products/Santero-Moscato-gift-box-with-2-glasses.html;Santero, Moscato, gift box with 2 glasses;Italy;770;white;sweet;NA;11;white
+http://winestyle.ru/products/Rene-Mure-Cremant-d-Alsace-Brut.html;Rene Mure, Cremant d'Alsace Brut, 375 ìë;France;1264;white;dry;NA;18;white
+http://winestyle.ru/products/Grande-Cuvee-1531-de-Aimery-Cremant-de-Limoux-750.html;"Grande Cuvee 1531" de Aimery Cremant de Limoux Rose;France;1292;rose;dry;NA;18;rose
+http://winestyle.ru/products/R-de-Ruinart-Brut-coffret.html;«R» de Ruinart Brut in gift box;France;5112;white;dry;NA;71;white
+http://winestyle.ru/products/Ruinart-Blanc-de-Blancs-coffret.html;Ruinart, Blanc de Blancs in gift box;France;6504;white;dry;NA;90;white
+http://winestyle.ru/products/Charles-Griffon-Doux.html;"Charles Griffon" Doux;France;441;white;semi sweet;NA;6;white
+http://winestyle.ru/products/Paul-Chevalier-Blanc-de-Blancs-Medium-Sweet.html;Paul Chevalier, Blanc de Blancs, Medium Sweet;France;506;white;semi sweet;NA;7;white
+http://winestyle.ru/products/Canti-Cuvee-Rose.html;Canti, Cuvee Rose;Italy;521;rose;sweet;NA;7;rose
+http://winestyle.ru/products/Chiarli-1860-Mirabello-Rosato-Lambrusco-dell-Emilia-IGT.html;Chiarli 1860, "Mirabello" Rosato, Lambrusco dell'Emilia IGT;Italy;510;rose;semi sweet;1860;7;rose
+http://winestyle.ru/products/Canti-Prosecco-2014.html;Canti, Prosecco, 2014;Italy;791;white;dry;2014;11;white
+http://winestyle.ru/products/Recaredo-Intens-Rosat-Brut-Nature-Gran-Reserva-Cava-DO-2010.html;Recaredo, Intens Rosat Brut Nature Gran Reserva, Cava DO, 2010;Spain;2720;rose;dry;2010;38;rose
+http://winestyle.ru/products/Bourgeois-Blanc-semidolce.html;"Bourgeois" Blanc semidolce;Russia;228;white;semi sweet;NA;3;white
+http://winestyle.ru/products/Lady-s-Story-Asti.html;"Lady's Story" Asti;Russia;236;white;sweet;NA;3;white
+http://winestyle.ru/products/Crimean-Classic-White-Semi-Sweet.html;"Crimean Classic" White Semi-Sweet;Crimea;386;white;semi sweet;NA;5;white
+http://winestyle.ru/products/Crimean-Classic-Brut.html;"Crimean Classic" Brut;Crimea;413;white;dry;NA;6;white
+http://winestyle.ru/products/Tombacco-Lambrusco-Dell-Emilia-IGT.html;Tombacco Lambrusco Dell'Emilia IGT;Italy;616;red;dry;NA;9;red
+http://winestyle.ru/products/Fratelli-Martini-Sant-Orsola-Asti.html;Fratelli Martini, "Sant’Orsola" Asti;Italy;819;white;sweet;NA;11;white
+http://winestyle.ru/products/Cavicchioli-Moscato.html;Cavicchioli, Moscato;Italy;814;white;semi dry;NA;11;white
+http://winestyle.ru/products/Cielo-e-Terra-Deor-Gold.html;Cielo e Terra, "Deor" Gold;Italy;871;white;dry;NA;12;white
+http://winestyle.ru/products/Santero-Prosecco-DOC-gift-box-with-2-glasses.html;Santero, Prosecco DOC, gift box with 2 glasses;Italy;916;white;dry;NA;13;white
+http://winestyle.ru/products/Echo-Falls-Sparkling-White-Zinfandel.html;"Echo Falls" Sparkling White Zinfandel;USA;985;rose;semi dry;NA;14;rose
+http://winestyle.ru/products/Valdo-Origine-Brut.html;Valdo, "Origine" Brut;Italy;1072;white;dry;NA;15;white
+http://winestyle.ru/products/Bouvet-Ladubay-Saphir-Brut-Vintage-Saumur-AOC-2011.html;Bouvet Ladubay, "Saphir" Brut Vintage, Saumur AOC, 2011;France;1413;white;dry;2011;20;white
+http://winestyle.ru/products/Juve-y-Camps-Cava-Rosado.html;Juve y Camps, Cava Rosado, gift box;Spain;1702;rose;dry;NA;24;rose
+http://winestyle.ru/products/Bouvet-Ladubay-Tresor-Rose-Brut-Saumur-AOC-gift-box.html;Bouvet Ladubay, "Tresor" Rose Brut, Saumur AOC, gift box;France;2287;rose;dry;NA;32;rose
+http://winestyle.ru/products/R-de-Ruinart-Brut.html;«R» de Ruinart Brut, 375 ìë;France;2831;white;dry;NA;39;white
+http://winestyle.ru/products/Brut-Champagne-AOC-gift-box.html;Brut Champagne AOC, gift box;France;4390;white;dry;NA;61;white
+http://winestyle.ru/products/Lanson-Black-Label-Brut-750.html;Lanson, "Black Label" Brut;France;5058;white;dry;NA;70;white
+http://winestyle.ru/products/Bourgeois-Tamanskoe.html;"Bourgeois" Tamanskoe;Russia;228;white;semi sweet;NA;3;white
+http://winestyle.ru/products/Bourgeois-Brut-Blanc.html;"Bourgeois" Brut Blanc;Russia;242;white;dry;NA;3;white
+http://winestyle.ru/products/Modavin-Spumante-Brut.html;"Modavin" Spumante Brut;Italy;575;white;dry;NA;8;white
+http://winestyle.ru/products/Pol-Remy-Demi-sec.html;"Pol Remy" Demi-sec;France;606;white;semi dry;NA;8;white
+http://winestyle.ru/products/Patriarche-Floreal-Rose-Brut.html;Patriarche, "Floreal" Rose Brut;France;611;rose;dry;NA;8;rose
+http://winestyle.ru/products/Geisweiler-Excellence-Blanc-de-Blancs-Demi-Sec.html;Geisweiler Excellence Blanc de Blancs Demi-Sec;France;824;white;semi dry;NA;11;white
+http://winestyle.ru/products/Chevalier-Lacassan-Vins-Mousseux-Brut.html;"Chevalier Lacassan" Vins Mousseux Brut;France;866;white;dry;NA;12;white
+http://winestyle.ru/products/Cava-Faustino-Extra-Seco-gift-box.html;Cava Faustino, Extra Seco, gift box;Spain;1207;white;dry;NA;17;white
+http://winestyle.ru/products/Fresita-gift-box.html;Fresita gift box;Chili;1280;rose;sweet;NA;18;rose
+http://winestyle.ru/products/Master-Legacy-Lev-Golytzin-Demi-Sweet-gift-box.html;"Master Legacy "Lev Golytzin" Demi-Sweet, 200 ìë;Russia;123;not assigned;not assigned;NA;2;not assigned
+http://winestyle.ru/products/Danzante-Prosecco-Extra-Dry-DOC.html;Danzante Prosecco Extra Dry DOC;Italy;1315;white;dry;NA;18;white
+http://winestyle.ru/products/Victor-Pinot-Rose-Brut-Spumante.html;"Victor" Pinot Rose Brut Spumante;Italy;1370;rose;dry;NA;19;rose
+http://winestyle.ru/products/Grande-Cuvee-1531-Blanc-de-Aimery-Cremant-de-Limoux-gift-box.html;"Grande Cuvee 1531" Blanc de Aimery, Cremant de Limoux, gift box;France;1422;white;dry;NA;20;white
+http://winestyle.ru/products/Fontanafredda-Brachetto-d-Acqui-DOCG.html;Fontanafredda, Brachetto d’Acqui DOCG;Italy;2009;red;sweet;NA;28;red
+http://winestyle.ru/products/Krug-Grande-Cuvee.html;Krug Grande Cuvee in gift box;France;17380;white;dry;NA;241;white
+http://winestyle.ru/products/Millstream-Wines-Picanti-Dolceze.html;Millstream Wines, "Picanti" Dolceze;Russia;141;white;sweet;NA;2;white
+http://winestyle.ru/products/Patriarche-Floreal-Doux.html;Patriarche, "Floreal" Doux;France;611;white;semi sweet;NA;8;white
+http://winestyle.ru/products/Opera-Blanc-de-Blancs-Brut.html;"Opera" Blanc de Blancs Brut;France;629;white;dry;NA;9;white
+http://winestyle.ru/products/Ca-De-Medici-Lambrusco-Cubista-Bianco-2010.html;Ca' De' Medici, "Lambrusco Cubista" Bianco;Italy;686;white;sweet;NA;10;white
+http://winestyle.ru/products/Cantina-Villa-Gianna-Pinot-Chardonnay.html;Cantina Villa Gianna, Chardonnay;Italy;691;white;dry;NA;10;white
+http://winestyle.ru/products/Ca-De-Medici-Reggiano-Lambrusco-Dolce-2010.html;Medici, "Reggiano" Lambrusco Dolce;Italy;739;red;sweet;NA;10;red
+http://winestyle.ru/products/Toso-Asti-DOCG.html;Toso, Asti DOCG;Italy;801;white;sweet;NA;11;white
+http://winestyle.ru/products/Bourgeois-Gold-semidolce.html;"Bourgeois" Gold semidolce;Russia;285;white;semi sweet;NA;4;white
+http://winestyle.ru/products/Crimean-Classic-White-Demi-Sec.html;"Crimean Classic" White Demi-Sec;Crimea;386;white;semi dry;NA;5;white
+http://winestyle.ru/products/Valdo-Prosecco-Treviso-DOC.html;Valdo, Prosecco, Treviso DOC, 200 ìë;Italy;463;white;dry;NA;6;white
+http://winestyle.ru/products/Krim-Moscato-Semi-Dry.html;"Krim" Moscato Semi-Dry;Ukraine;570;white;semi dry;NA;8;white
+http://winestyle.ru/products/Chiarli-1860-Mirabello-Lambrusco-Grasparossa-di-Castelvetro-DOC.html;Chiarli 1860, "Mirabello", Lambrusco Grasparossa di Castelvetro DOC;Italy;719;red;semi sweet;1860;10;red
+http://winestyle.ru/products/Sileni-Estates-Cellar-Selection-Sparkling-Brut.html;Sileni Estates, "Cellar Selection" Sparkling Brut;New Zealand;891;not assigned;dry;NA;12;not assigned
+http://winestyle.ru/products/Codorniu-Clasico-Semi-Seco.html;"Codorniu" Clasico Semi Seco;Spain;943;white;semi dry;NA;13;white
+http://winestyle.ru/products/Undurraga-Brut.html;Undurraga, Brut;Chili;981;white;dry;NA;14;white
+http://winestyle.ru/products/Vallerenza-Brut-Chardonnay-Piemonte-DOC.html;"Vallerenza" Brut, Chardonnay, Piemonte DOC;Italy;1085;white;dry;NA;15;white
+http://winestyle.ru/products/Bouvet-Ladubay-1851-Brut.html;Bouvet Ladubay, 1851 Brut;France;1149;white;dry;1851;16;white
+http://winestyle.ru/products/Veuve-Amiot-Brut-Blanc-Cremant-de-Loire-AOC.html;Veuve Amiot, Brut Blanc, Cremant de Loire AOC;France;1133;white;dry;NA;16;white
+http://winestyle.ru/products/Val-d-Oca-Prosecco-Brut.html;Val d'Oca, Prosecco Brut;Italy;1183;white;dry;NA;16;white
+http://winestyle.ru/products/MVSA-Semi-Seco-Cava-DO-2012.html;MVSA Semi Seco, Cava DO;Spain;1442;white;semi dry;NA;20;white
+http://winestyle.ru/products/Codorniu-Seleccion-Raventos-Brut-Rose.html;Codorniu, "Seleccion Raventos" Brut Rose;Spain;1556;rose;dry;NA;22;rose
+http://winestyle.ru/products/Canella-Prosecco-Superiore-Millesimato-Conegliano-Valdobbiadene-DOCG-2014.html;Canella, Prosecco Superiore Millesimato, Conegliano-Valdobbiadene DOCG, 2014;Italy;1788;white;dry;2014;25;white
+http://winestyle.ru/products/Prosecco-Valdobbiadene-Giall-Oro-DOC-gift-box.html;Prosecco Valdobbiadene Giall'Oro DOC, gift box;Italy;1792;white;dry;NA;25;white
+http://winestyle.ru/products/Ferrari-Demi-Sec-Trento-DOC-gift-box.html;Ferrari Demi Sec, Trento DOC, gift box;Italy;3013;white;semi dry;NA;42;white
+http://winestyle.ru/products/Valdo-Cuvee-Viviana-Valdobbiadene-Superiore-di-Cartizze-DOCG-gift-box.html;Valdo, "Cuvee Viviana" Valdobbiadene Superiore di Cartizze DOCG, gift box;Italy;3084;white;dry;NA;43;white
+http://winestyle.ru/products/Feudi-di-San-Gregorio-Dubl-Rosato-2006.html;Feudi di San Gregorio, "Dubl" Rosato, 2006;Italy;3186;rose;dry;2006;44;rose
+http://winestyle.ru/products/Brut-Excellence-750.html;Brut Excellence;France;4495;white;dry;NA;62;white
+http://winestyle.ru/products/La-Gioiosa-Fragolino-Dolce.html;"La Gioiosa" Fragolino Dolce;Italy;901;red;sweet;NA;13;red
+http://winestyle.ru/products/Santero-Asti-DOCG-gift-box-with-2-glasses.html;Santero, Asti DOCG, gift box with 2 glasses;Italy;1003;white;sweet;NA;14;white
+http://winestyle.ru/products/Carlo-Gancia-Brut-Metodo-Classico-Piemonte-DOC.html;"Carlo Gancia" Brut, Piemonte DOC;Italy;1154;white;dry;NA;16;white
+http://winestyle.ru/products/Bellenda-Prosecco-Frizzante-Col-Di-Luna.html;Bellenda, Prosecco Frizzante "Col Di Luna";Italy;1178;white;dry;NA;16;white
+http://winestyle.ru/products/Joseph-Verdier-Tresors-de-Loire-Brut-Cremant-de-Loire-AOC.html;Joseph Verdier, "Tresors de Loire" Brut, Cremant de Loire AOC;France;1221;white;dry;NA;17;white
+http://winestyle.ru/products/Codorniu-Seleccion-Raventos.html;Codorniu, "Seleccion Raventos";Spain;1384;white;dry;NA;19;white
+http://winestyle.ru/products/Antinori-Santa-Cristina-Brut-Franciacorta-DOCG.html;Antinori, "Santa Cristina" Brut, Franciacorta DOCG;Italy;1393;white;dry;NA;19;white
+http://winestyle.ru/products/Mondoro-Gran-Cuvee-Brut-gift-box.html;Mondoro, "Gran Cuvee" Brut, gift box;Italy;1559;not assigned;not assigned;NA;22;not assigned
+http://winestyle.ru/products/Fontanafredda-Asti-DOCG-gift-box-750.html;Fontanafredda, Asti DOCG, gift box;Italy;1395;white;sweet;NA;19;white
+http://winestyle.ru/products/Tyrrell-s-Wines-Old-Winery-Brut.html;Tyrrell's Wines, "Old Winery" Brut;Australia;1407;white;dry;NA;20;white
+http://winestyle.ru/products/Canella-Rose-Brut.html;Canella, Rose Brut;Italy;1505;rose;dry;NA;21;rose
+http://winestyle.ru/products/Gancia-Cuvee-36-Millesimato-Alta-Langa-DOCG-Metodo-Classico.html;Gancia, "Cuvee 36", Alta Langa DOCG Metodo Classico;Italy;1538;white;dry;NA;21;white
+http://winestyle.ru/products/Lucien-Albrecht-Brut-Cremant-d-Alsace-AOC.html;Lucien Albrecht, Brut, Cremant d’Alsace AOC;France;1512;white;dry;NA;21;white
+http://winestyle.ru/products/Fox-Creek-Vixen.html;Fox Creek Vixen;Australia;1938;red;dry;NA;27;red
+http://winestyle.ru/products/Contarini-Prosecco-Victor-White-Extra-Dry-DOC-gift-box.html;Contarini, Prosecco "Victor" White Extra Dry DOC, gift box;Italy;1991;white;dry;NA;28;white
+http://winestyle.ru/products/Victor-Pinot-Rose-Brut-Spumante-in-gift-tube.html;"Victor" Pinot Rose Brut Spumante, in gift tube;Italy;1995;rose;dry;NA;28;rose
+http://winestyle.ru/products/Bodegas-Chandon-Brut-Mendoza.html;Bodegas Chandon Brut, Mendoza;Argentina;2009;white;dry;NA;28;white
+http://winestyle.ru/products/Juve-y-Camps-Cava-Reserva-de-la-Familia-2010-in-gift-box.html;Juve y Camps, Cava "Reserva de la Familia", 2010, in gift box;Spain;2221;white;dry;2010;31;white
+http://winestyle.ru/products/Codorniu-Reina-Maria-Cristina-Blanc-de-Noir-Brut-Reserva.html;Codorniu, "Reina Maria Cristina" Blanc de Noir Brut Reserva;Spain;2239;white;dry;NA;31;white
+http://winestyle.ru/products/Albino-Rocca-Moscato-d-Asti-DOCG-2013.html;Albino Rocca, Moscato d'Asti DOCG, 2013;Italy;2268;white;sweet;2013;32;white
+http://winestyle.ru/products/Contarini-Valse-Rose-Extra-Dry.html;Contarini, "Valse" Rose Extra Dry;Italy;425;rose;dry;NA;6;rose
+http://winestyle.ru/products/Krim-Rose-Semi-Dry.html;"Krim" Rose Semi-Dry;Ukraine;408;rose;semi dry;NA;6;rose
+http://winestyle.ru/products/Ligabue-Rosato-Dolce-Lambrusco-dell-Emilia-IGP.html;"Ligabue" Rosato Dolce, Lambrusco dell'Emilia IGP;Italy;419;rose;sweet;NA;6;rose
+http://winestyle.ru/products/Ligabue-Rosso-Dolce-Lambrusco-dell-Emilia-IGP.html;"Ligabue" Rosso Dolce, Lambrusco dell'Emilia IGP;Italy;419;red;sweet;NA;6;red
+http://winestyle.ru/products/Contri-Spumanti-Corte-Viola-Lambrusco-dell-Emilia-Bianco-Amabile-IGT.html;Contri Spumanti, "Corte Viola" Lambrusco dell'Emilia Bianco Amabile IGT;Italy;452;white;semi sweet;NA;6;white
+http://winestyle.ru/products/Contri-Spumanti-Corte-Viola-Lambrusco-dell-Emilia-Rosato-Amabile-IGT.html;Contri Spumanti, "Corte Viola" Lambrusco dell'Emilia Rose Amabile IGT;Italy;452;rose;semi sweet;NA;6;rose
+http://winestyle.ru/products/Platino-Pink-Moscato.html;Platino Pink Moscato;Spain;483;rose;sweet;NA;7;rose
+http://winestyle.ru/products/Riunite-D-Oro-Emilia-IGT.html;Riunite, "D'Oro", Emilia IGT;Italy;553;white;semi sweet;NA;8;white
+http://winestyle.ru/products/Morando-Il-Mossiere-Lambrusco-Amabile-White-Emilia-IGT.html;Morando, "Il Mossiere" Lambrusco Amabile White, Emilia IGT;Italy;582;white;semi sweet;NA;8;white
+http://winestyle.ru/products/Pol-Remy-Doux.html;"Pol Remy" Doux;France;606;white;sweet;NA;8;white
+http://winestyle.ru/products/Opera-Blanc-de-Blancs-Demi-Sec.html;"Opera" Blanc de Blancs Demi-Sec;France;629;white;semi dry;NA;9;white
+http://winestyle.ru/products/Villa-Conchi-Cava-Brut-Seleccion.html;Villa Conchi, Cava Brut Seleccion;Spain;671;not assigned;dry;NA;9;not assigned
+http://winestyle.ru/products/Charmat-Blanc-de-Blancs-Demi-Sec.html;"Charmat" Blanc de Blancs Demi Sec;France;627;white;semi dry;NA;9;white
+http://winestyle.ru/products/Amour-de-Paris-Doux.html;"Amour de Paris" Doux;France;686;white;semi sweet;NA;10;white
+http://winestyle.ru/products/Ca-De-Medici-Lambrusco-Cubista-Rosato-Dolce.html;Ca' De' Medici, "Lambrusco Cubista" Rosato Dolce;Italy;686;rose;sweet;NA;10;rose
+http://winestyle.ru/products/Novy-Svet-Extra-Brut.html;Novy Svet, Extra Brut;Crimea;714;white;dry;NA;10;white
+http://winestyle.ru/products/Mas-Fi-Brut.html;"Mas Fi" Brut;Spain;770;white;dry;NA;11;white
+http://winestyle.ru/products/Faber-Rotlese-sweet.html;"Faber" Rotlese sweet;Germany;758;red;sweet;NA;11;red
+http://winestyle.ru/products/Vicente-Gandia-Cava-Brut-Cava-DO.html;Vicente Gandia, Cava Brut, Cava DO;Spain;761;white;dry;NA;11;white
+http://winestyle.ru/products/Morando-Ferrina-Prosecco-DOC-Brut-gift-box.html;Morando, "Ferrina" Prosecco DOC Brut, gift box;Italy;790;white;dry;NA;11;white
+http://winestyle.ru/products/MVSA-Brut-Reserva-Cava-DO-2011.html;MVSA Brut Reserva, Cava DO;Spain;1962;white;dry;NA;27;white
+http://winestyle.ru/products/Vigna-Senza-Nome-Moscato-d-Asti-DOCG-2014.html;"Vigna Senza Nome" Moscato d'Asti DOCG, 2014;Italy;1992;white;sweet;2014;28;white
+http://winestyle.ru/products/Drusian-Valdobbiadene-Prosecco-Superiore-DOCG-Spumante-Brut-2014.html;Drusian, Valdobbiadene Prosecco Superiore DOCG Spumante Brut, 2014;Italy;2063;white;dry;2014;29;white
+http://winestyle.ru/products/Bouvet-Ladubay-Tresor-Rose-Brut-Saumur-AOC.html;Bouvet Ladubay, "Tresor" Rose Brut, Saumur AOC;France;2069;rose;dry;NA;29;rose
+http://winestyle.ru/products/Bodegas-Chandon-Brut-Rose-Mendoza.html;Bodegas Chandon, Brut Rose, Mendoza;Argentina;2177;rose;dry;NA;30;rose
+http://winestyle.ru/products/Umberto-Bortolotti-Prosecco-di-Valdobbiadene-Brut.html;Umberto Bortolotti, Prosecco di Valdobbiadene Brut;Italy;2329;white;dry;NA;32;white
+http://winestyle.ru/products/Rene-Mure-Cremant-d-Alsace-Demi-Sec.html;Rene Mure, Cremant d'Alsace Demi-Sec;France;2346;white;semi dry;NA;33;white
+http://winestyle.ru/products/Ferrari-Rose-Brut-Trento-DOC-750.html;Ferrari, Rose Brut, Trento DOC;Italy;3002;rose;dry;NA;42;rose
+http://winestyle.ru/products/Gramona-Rose-Brut.html;Gramona, Rose Brut;Spain;3284;rose;dry;NA;46;rose
+http://winestyle.ru/products/Demi-Sec-750.html;Laurent-Perrier Demi-Sec;France;5343;not assigned;not assigned;NA;74;not assigned
+http://winestyle.ru/products/Chanoine-Grande-Reserve-Brut.html;Chanoine, "Grande Reserve" Brut;France;3294;white;dry;NA;46;white
+http://winestyle.ru/products/Segura-Viudas-Cava-Brut-Rose-Reserva-Heredad-gift-box.html;Segura Viudas, Cava Brut Rose "Reserva Heredad", gift box;Spain;3561;rose;dry;NA;49;rose
+http://winestyle.ru/products/Duval-Leroy-Brut-750.html;Duval-Leroy, Brut;France;3835;white;dry;NA;53;white
+http://winestyle.ru/products/Lanson-White-Label.html;Lanson, "White Label";France;4695;white;semi dry;NA;65;white
+http://winestyle.ru/products/Lanson-Rose-Label-Brut-Rose-750.html;Lanson, "Rose Label" Brut Rose;France;4995;rose;dry;NA;69;rose
+http://winestyle.ru/products/Lanson-Rose-Label-Brut-Rose-in-pink-case.html;Lanson, "Rose Label" Brut Rose, in pink case;France;5196;rose;dry;NA;72;rose
+http://winestyle.ru/products/Deutz-Brut-Classic-750.html;Deutz Brut Classic;France;5669;white;dry;NA;79;white
+http://winestyle.ru/products/Bellavista-Franciacorta-Gran-Cuvee-Brut-2007.html;Bellavista, Franciacorta Gran Cuvee Brut, 2007;Italy;6630;white;dry;2007;92;white
+http://winestyle.ru/products/Brut-Vintage-2008.html;Brut Vintage, 2008;France;6797;white;dry;2008;94;white
+http://winestyle.ru/products/Bollinger-Special-Cuvee-Brut-gift-box-750.html;Bollinger, "Special Cuvee" Brut, gift box;France;7208;white;dry;NA;100;white
+http://winestyle.ru/products/Pegoes-Santo-Isidro-de-Pegoes-Espumante-Bruto.html;Pegoes, "Santo Isidro de Pegoes" Espumante Bruto;Portugal;1054;white;dry;NA;15;white
+http://winestyle.ru/products/Bestheim-Cremant-d-Alsace-Brut-AOC.html;Bestheim, Cremant d’Alsace Brut AOC;France;1088;white;dry;NA;15;white
+http://winestyle.ru/products/La-Tordera-Gabry-Rose-Extra-Dry-Vino-Spumante.html;La Tordera, "Gabry" Rose Extra Dry, Vino Spumante;Italy;1052;rose;dry;NA;15;rose
+http://winestyle.ru/products/Hardys-Stamp-Sparkling-Pinot-Chardonnay.html;Hardys, "Stamp" Sparkling Pinot-Chardonnay;Australia;1119;white;semi dry;NA;16;white
+http://winestyle.ru/products/Andreola-Dirupo-Valdobbiadene-Prosecco-Superiore-DOCG-Brut-2013.html;Andreola, "Dirupo" Valdobbiadene Prosecco Superiore DOCG Brut;Italy;1216;white;dry;NA;17;white
+http://winestyle.ru/products/Vilarnau-Demi-Sec-Cava-DO.html;"Vilarnau" Demi Sec, Cava DO;Spain;1217;white;semi dry;NA;17;white
+http://winestyle.ru/products/Cantina-Produttori-Cormons-Conegliano-Valdobbiadene-Prosecco-Superiore-DOCG.html;Cantina Produttori Cormons, Conegliano Valdobbiadene Prosecco Superiore DOCG;Italy;1221;white;dry;NA;17;white
+http://winestyle.ru/products/Dezzani-Bellaluna-Cuvee-Brut.html;Dezzani, "Bellaluna" Cuvee Brut;Italy;1263;white;dry;NA;18;white
+http://winestyle.ru/products/Val-d-Oca-Punto-Rosa-Millesimato-2013.html;Val d'Oca, "Punto Rosa" Millesimato, 2013;Italy;1344;rose;dry;2013;19;rose
+http://winestyle.ru/products/Fontanafredda-Asti-DOCG-750.html;Fontanafredda, Asti DOCG;Italy;1349;white;sweet;NA;19;white
+http://winestyle.ru/products/Louis-Bouillot-Brut-Gran-Reserve-Cremant-de-Bourgogne-AOC.html;Louis Bouillot, Brut Gran Reserve, Cremant de Bourgogne AOC;France;1424;not assigned;dry;NA;20;not assigned
+http://winestyle.ru/products/De-Stefani-Fior-di-Rose-Rosato-Frizzante-IGT.html;De Stefani, "Fior di Rose", Rosato Frizzante IGT;Italy;1580;rose;dry;NA;22;rose
+http://winestyle.ru/products/Bellenda-Prosecco-Col-Di-Luna-gift-box.html;Bellenda Prosecco Col Di Luna, gift box;Italy;1593;white;dry;NA;22;white
+http://winestyle.ru/products/Mauro-Sebaste-Moscato-d-Asti-DOCG-2014.html;Mauro Sebaste, Moscato d'Asti DOCG, 2014;Italy;1627;white;sweet;2014;23;white
+http://winestyle.ru/products/Cavicchioli-Col-Sassoso-Lambrusco-Grasparossa-di-Castelvetro-DOC-2011.html;Cavicchioli, "Col Sassoso", Lambrusco Grasparossa di Castelvetro DOC, 2011;Italy;1654;red;dry;2011;23;red
+http://winestyle.ru/products/Tenimenti-Ca-Bianca-Asti-Spumante-DOCG.html;Tenimenti Ca'Bianca, Asti Spumante DOCG;Italy;1654;white;sweet;NA;23;white
+http://winestyle.ru/products/De-Stefani-Prosecco-Spumante-Gran-Cuvee-Extra-Dry-DOC.html;De Stefani, Prosecco Spumante Gran Cuvee Extra Dry DOC;Italy;1789;white;dry;NA;25;white
+http://winestyle.ru/products/Jean-Perrier-et-Fils-Methode-Traditionnelle-Brut.html;Jean Perrier et Fils, Methode Traditionnelle Brut;France;1938;white;dry;NA;27;white
+http://winestyle.ru/products/Cave-de-Bailly-Bailly-Lapierre-Rose-Brut-Cremant-De-Bourgogne-AOC.html;Cave de Bailly, "Bailly-Lapierre" Rose Brut, Cremant De Bourgogne AOC;France;1981;rose;dry;NA;28;rose
+http://winestyle.ru/products/Bott-Geyl-Paul-Edouard-Extra-Brut-Cremant-d-Alsace-AOC.html;Bott-Geyl, "Paul-Edouard" Extra Brut, Cremant d'Alsace ÀÎC;France;1992;white;dry;NA;28;white
+http://winestyle.ru/products/Herbert-Beaufort-Cuvee-du-Melomane-Bouzy-Grand-Cru.html;Herbert Beaufort, "Cuvee du Melomane" Blanc de Blancs, Bouzy Grand Cru;France;4736;not assigned;dry;NA;66;not assigned
+http://winestyle.ru/products/Brut-Laurent-Perrier-gift-box-750.html;Brut Laurent-Perrier, gift box;France;4832;not assigned;not assigned;NA;67;not assigned
+http://winestyle.ru/products/Taittinger-Demi-Sec.html;Taittinger Demi-Sec;France;4774;white;semi dry;NA;66;white
+http://winestyle.ru/products/Brut-Laurent-Perrier-750.html;Brut Laurent-Perrier;France;4934;white;dry;NA;69;white
+http://winestyle.ru/products/Laurent-Perrier-Ultra-Brut-750-gift-box-2004.html;Laurent-Perrier Ultra Brut, gift box;France;5065;not assigned;not assigned;NA;70;not assigned
+http://winestyle.ru/products/Louis-Roederer-Carte-Blanche-AOC-gift-box.html;Carte Blanche AOC, gift box;France;4995;white;semi dry;NA;69;white
+http://winestyle.ru/products/Paul-Goerg-Brut-Tradition-Premier-Cru-gift-box.html;Paul Goerg Brut Tradition Premier Cru, gift box;France;5124;white;dry;NA;71;white
+http://winestyle.ru/products/Joseph-Perrier-Cuvee-Royale-Demi-Sec.html;Joseph Perrier, "Cuvee Royale" Demi-Sec;France;5631;white;semi dry;NA;78;white
+http://winestyle.ru/products/Bellavista-Franciacorta-Cuvee-Brut-gift-box.html;Bellavista Franciacorta Cuvee Brut, gift box;Italy;5654;white;dry;NA;79;white
+http://winestyle.ru/products/Taittinger-Nocturne-Rose.html;Taittinger, "Nocturne" Rose;France;6096;rose;dry;NA;85;rose
+http://winestyle.ru/products/Ayala-Brut-Nature-AOC.html;Ayala, Brut Nature AOC;France;6151;white;dry;NA;85;white
+http://winestyle.ru/products/Deutz-Extra-Brut.html;Deutz, Extra Brut;France;6225;white;dry;NA;86;white
+http://winestyle.ru/products/Duval-Leroy-Brut-Rose.html;Duval-Leroy, Brut Rose;France;6339;rose;dry;NA;88;rose
+http://winestyle.ru/products/Nicolas-Feuillatte-Brut-Extrem.html;Nicolas Feuillatte, Brut Extrem;France;6387;white;dry;NA;89;white
+http://winestyle.ru/products/Brut-Vintage-2008-gift-box.html;Brut Vintage, 2008, gift box;France;6797;white;dry;2008;94;white
+http://winestyle.ru/products/Brut-Rose-AOC-2010.html;Brut Rose AOC, 2010;France;6997;rose;dry;2010;97;rose
+http://winestyle.ru/products/Brut-Rose-AOC-2010-Grafika-gift-box.html;Brut Rose AOC, 2010, "Grafika" gift box;France;6997;rose;dry;2010;97;rose
+http://winestyle.ru/products/Lanson-Extra-Age-Brut-gift-box.html;Lanson, "Extra Age" Brut, gift box;France;7498;white;dry;NA;104;white
+http://winestyle.ru/products/Cattier-Clos-du-Moulin-Brut-Premier-Cru-Champagne-AOC.html;Cattier, "Clos du Moulin" Brut Premier Cru, Champagne AOC;France;7561;white;dry;NA;105;white
+http://winestyle.ru/products/Gosset-Grand-Blanc-de-Blancs-gift-box.html;Gosset, "Grand Blanc de Blancs", gift box;France;7698;white;dry;NA;107;white
+http://winestyle.ru/products/Ligabue-Bianco-Dolce-Lambrusco-dell-Emilia-IGP.html;"Ligabue" Bianco Dolce, Lambrusco dell'Emilia IGP;Italy;419;white;sweet;NA;6;white
+http://winestyle.ru/products/GWS-Adamanti-Brut.html;GWS, "Adamanti" Brut;Georgia;453;white;dry;NA;6;white
+http://winestyle.ru/products/Muscador-Blanc-Doux.html;"Muscador" Blanc Doux;France;629;white;sweet;NA;9;white
+http://winestyle.ru/products/Amour-de-Paris-Demi-Sec.html;"Amour de Paris" Demi-Sec;France;686;white;semi dry;NA;10;white
+http://winestyle.ru/products/Ca-De-Medici-Lambrusco-Cubista-Rosso-2010.html;Ca' De' Medici, "Lambrusco Cubista" Rosso;Italy;686;red;sweet;NA;10;red
+http://winestyle.ru/products/Novy-Svet-Semi-dry.html;Novy Svet, Semi-dry;Crimea;714;white;semi dry;NA;10;white
+http://winestyle.ru/products/Ca-Montebello-Pinot-Nero-Rosato-Provincia-di-Pavia-IGT-2013.html;Ca' Montebello, Pinot Nero Rosato, Provincia di Pavia IGT, 2013;Italy;730;rose;dry;2013;10;rose
+http://winestyle.ru/products/Faber-Bouquet-sweet.html;"Faber" Bouquet sweet;Germany;756;white;sweet;NA;10;white
+http://winestyle.ru/products/Prosecco-Ca-del-Doge.html;Prosecco Ca’ del Doge;Italy;912;white;dry;NA;13;white
+http://winestyle.ru/products/Bosca-Anniversary-White-Label.html;"Bosca Anniversary" White Label, 1500 ìë;Lithuania;991;white;semi dry;NA;14;white
+http://winestyle.ru/products/Adriano-Adami-Bosco-di-Gica-Brut-Valdobbiadene-DOCG.html;Adriano Adami, Bosco di Gica Brut, Valdobbiadene DOCG;Italy;1005;white;dry;NA;14;white
+http://winestyle.ru/products/Caldirola-Asti-DOCG.html;Caldirola, Asti DOCG;Italy;943;white;sweet;NA;13;white
+http://winestyle.ru/products/Undurraga-Brut-Rose-Royal-Valle-de-Leyda-DO.html;Undurraga, Brut Rose Royal, Valle de Leyda DO;Chili;981;rose;dry;NA;14;rose
+http://winestyle.ru/products/L-Antica-Quercia-Matiu-Extra-Dry-Conegliano-Valdobbiadene-Prosecco-Superiore-DOCG-2011.html;L'Antica Quercia, "Matiu" Brut, Conegliano Valdobbiadene Prosecco Superiore DOCG, 2011;Italy;1195;white;dry;2011;17;white
+http://winestyle.ru/products/Ceste-Moscato-Piemonte-DOC-2010.html;Ceste Moscato Piemonte DOC, 2010;Italy;1265;white;sweet;2010;18;white
+http://winestyle.ru/products/Beringer-Sparkling-White-Zinfandel-Napa-Valley-2013.html;Beringer, Sparkling White Zinfandel, Napa Valley, 2013;USA;1346;rose;semi dry;2013;19;rose
+http://winestyle.ru/products/MVSA-Brut-Rose-Cava-DO-2012.html;"MVSA" Brut Rose, Cava DO;Spain;1492;rose;dry;NA;21;rose
+http://winestyle.ru/products/Toques-et-Clochers-Cremant-de-Limoux-AOC.html;"Toques et Clochers", Cremant de Limoux AOC;France;1493;white;dry;NA;21;white
+http://winestyle.ru/products/Bernard-Massard-Chardonnay-Brut.html;Bernard-Massard, Chardonnay Brut;Luxemburg;1498;white;dry;NA;21;white
+http://winestyle.ru/products/Icardi-La-Rosa-Selvatica-Moscato-d-Asti-DOCG-2013.html;Icardi, "La Rosa Selvatica", Moscato d’Asti DOCG, 2013;Italy;1580;white;sweet;2013;22;white
+http://winestyle.ru/products/Dirler-Cade-Cremant-d-Alsace-AOC-Brut-2010.html;Dirler-Cade, Cremant d'Alsace AOC Brut, 2010;France;2303;white;dry;2010;32;white
+http://winestyle.ru/products/Ferrari-Brut-Trento-DOC-750.html;Ferrari Brut, Trento DOC;Italy;2569;white;dry;NA;36;white
+http://winestyle.ru/products/Taittinger-Brut-Reserve-375.html;Taittinger Brut Reserve, 375 ìë;France;2592;white;dry;NA;36;white
+http://winestyle.ru/products/Piper-Heidsieck-Cuve-Brut-375.html;Piper Heidsieck Brut, 375 ìë;France;2750;not assigned;not assigned;NA;38;not assigned
+http://winestyle.ru/products/Valdo-Cuvee-Viviana-Valdobbiadene-Superiore-di-Cartizze-DOCG.html;Valdo, "Cuvee Viviana" Valdobbiadene Superiore di Cartizze DOCG;Italy;2653;white;dry;NA;37;white
+http://winestyle.ru/products/Ferrari-Demi-Sec-Trento-DOC.html;Ferrari Demi Sec, Trento DOC;Italy;2737;white;semi dry;NA;38;white
+http://winestyle.ru/products/Serafini-Vidotto-Bollicine-di-Prosecco-DOCG-Asolo.html;Serafini & Vidotto, Bollicine di Prosecco DOCG "Asolo";Italy;2996;white;dry;NA;42;white
+http://winestyle.ru/products/Giuseppe-Contratto-Millesimato-Brut-2010-gift-box.html;Giuseppe Contratto, "Millesimato" Brut, 2010, gift box;Italy;3192;white;dry;2010;44;white
+http://winestyle.ru/products/Chanoine-Demi-Sec.html;Chanoine, Demi-Sec;France;3294;white;semi dry;NA;46;white
+http://winestyle.ru/products/Nino-Franco-Superiore-di-Cartizze-Valdobbiadene-DOCG-2012.html;Nino Franco, "Superiore di Cartizze", Valdobbiadene DOCG, 2012;Italy;3556;white;dry;2012;49;white
+http://winestyle.ru/products/Fontanafredda-Asti-DOCG-1500.html;Fontanafredda, Asti DOCG, 1500 ìë;Italy;3582;white;sweet;NA;50;white
+http://winestyle.ru/products/Ferghettina-Franciacorta-Rose-Brut-DOCG-2010.html;Ferghettina, Franciacorta Rose Brut DOCG, 2010;Italy;3695;rose;dry;2010;51;rose
+http://winestyle.ru/products/Cattier-Glamour-Rose-Champagne-AOC.html;Cattier, "Glamour" Rose, Champagne AOC;France;3780;rose;dry;NA;52;rose
+http://winestyle.ru/products/Recaredo-Brut-De-Brut-Gran-Reserva-Brut-Nature-Cava-DO-2004.html;Recaredo, Brut De Brut Gran Reserva Brut Nature, Cava DO, 2004;Spain;4052;white;dry;2004;56;white
+http://winestyle.ru/products/Champagne-Georges-Cartier-Selection-Brut-gift-box.html;Champagne Georges Cartier, Selection Brut, gift box;France;4130;white;dry;NA;57;white
+http://winestyle.ru/products/Brut-Grand-Rose.html;Brut Grand Rose, 375 ìë;France;4195;rose;dry;NA;58;rose
+http://winestyle.ru/products/Contadi-Castaldi-Franciacorta-Brut-DOCG-gift-box.html;Contadi Castaldi, Franciacorta Brut DOCG, gift box;Italy;4346;white;dry;NA;60;white
+http://winestyle.ru/products/Nicolas-Feuillatte-Demi-Sec.html;Nicolas Feuillatte, Demi-Sec;France;4395;white;semi dry;NA;61;white
+http://winestyle.ru/products/Tribaut-Schloesser-Brut-Origine-gift-box.html;Tribaut Schloesser, Brut Origine, gift box;France;4434;white;dry;NA;62;white
+http://winestyle.ru/products/Lanson-Selection-Alain-Ducasse-Brut.html;Lanson Selection Alain Ducasse Brut;France;4495;white;dry;NA;62;white
+http://winestyle.ru/products/Brut-Grande-Reserve-750.html;Brut Grande Reserve;France;5896;white;dry;NA;82;white
+http://winestyle.ru/products/Lanson-Gold-Label-Brut-Vintage-2002.html;Lanson, "Gold Label" Brut Vintage, 2002;France;5896;white;dry;2002;82;white
+http://winestyle.ru/products/Boizel-Grand-Vintage-Brut-2004.html;Boizel, "Grand Vintage" Brut, 2004;France;5899;white;dry;2004;82;white
+http://winestyle.ru/products/Brut-Laurent-Perrier-gift-box-with-2-glasses.html;Brut Laurent-Perrier, gift box with 2 glasses;France;6103;white;dry;NA;85;white
+http://winestyle.ru/products/Jacquesson-Cuvee-734-Brut.html;Jacquesson, "Cuvee ¹ 734" Brut;France;6117;white;dry;NA;85;white
+http://winestyle.ru/products/Delamotte-Brut-Blanc-de-Blancs-gift-box.html;Delamotte, Brut Blanc de Blancs, gift box;France;6313;white;dry;NA;88;white
+http://winestyle.ru/products/Nicolas-Feuillatte-Brut-Rose.html;Nicolas Feuillatte, Brut Rose;France;6597;rose;dry;NA;92;rose
+http://winestyle.ru/products/Veuve-Clicquot-Rich-Reserve-2004.html;Veuve Clicquot Rich Reserve, 2004;France;6794;white;dry;2004;94;white
+http://winestyle.ru/products/Contadi-Castaldi-Franciacorta-Soul-Saten-2006.html;Contadi Castaldi, Franciacorta "Soul Saten", 2006;Italy;6808;white;dry;2006;95;white
+http://winestyle.ru/products/Brut-Vintage-2008-gift-box-Deluxe.html;Brut Vintage, 2008, gift box "Deluxe";France;6997;white;dry;2008;97;white
+http://winestyle.ru/products/Bollinger-Special-Cuvee-Brut-750.html;Bollinger, "Special Cuvee" Brut;France;7016;white;dry;NA;97;white
+http://winestyle.ru/products/Nicolas-Feuillatte-Brut-Rose-AOC-in-gift-box.html;Nicolas Feuillatte, Brut Rose, gift box;France;7158;rose;dry;NA;99;rose
+http://winestyle.ru/products/Brut-Rose-AOC-2010-gift-box-Deluxe.html;Brut Rose AOC, 2010, gift box "Deluxe";France;7198;rose;dry;2010;100;rose
+http://winestyle.ru/products/Champagne-Ployez-Jacquemart-Blanc-de-Blancs-Extra-Brut-2005.html;Champagne Ployez-Jacquemart, Blanc de Blancs Extra Brut, 2005;France;7436;white;dry;2005;103;white
+http://winestyle.ru/products/Bellavista-Franciacorta-Gran-Cuvee-Rose-2007.html;Bellavista, Franciacorta "Gran Cuvee Rose", 2007;Italy;7589;rose;dry;2007;105;rose
+http://winestyle.ru/products/Gosset-Grand-Blanc-de-Blancs.html;Gosset, "Grand Blanc de Blancs";France;7698;white;dry;NA;107;white
+http://winestyle.ru/products/Henriot-Brut-Blanc-de-Blancs-gift-box.html;Henriot, Brut Blanc de Blancs, gift box;France;7749;white;dry;NA;108;white
+http://winestyle.ru/products/Louis-Roederer-Brut-Blanc-de-Blancs-2009.html;Louis Roederer, Brut Blanc de Blancs, 2009;France;7998;white;dry;2009;111;white
+http://winestyle.ru/products/Deutz-Brut-Rose-gift-box.html;Deutz Brut Rose, gift box;France;8003;rose;dry;NA;111;rose
+http://winestyle.ru/products/Bellavista-Franciacorta-Gran-Cuvee-Saten.html;Bellavista Franciacorta Gran Cuvee Saten;Italy;8180;white;dry;NA;114;white
+http://winestyle.ru/products/Diadema-Blanc-de-Blancs-Brut-Champagne-AOC-2002-gift-box.html;"Diadema" Blanc de Blancs Brut, Champagne AOC, 2002, gift box;France;12820;white;dry;2002;178;white
+http://winestyle.ru/products/Collet-Esprit-Couture-Brut-gift-box.html;Collet, "Esprit Couture" Brut, gift box;France;13683;white;dry;NA;190;white
+http://winestyle.ru/products/Boizel-Joyau-de-France-Brut-1989-gift-box.html;Boizel, "Joyau de France" Brut, 1989, gift box;France;13728;white;dry;1989;191;white
+http://winestyle.ru/products/Dom-Perignon-2005.html;"Dom Perignon", 2005;France;15448;white;dry;2005;215;white
+http://winestyle.ru/products/Champagne-Ployez-Jacquemart-Liesse-d-Harbonville-Brut-1998.html;Champagne Ployez-Jacquemart, "Liesse d'Harbonville" Brut, 1998;France;16271;white;dry;1998;226;white
+http://winestyle.ru/products/Billecart-Salmon-Brut-Blanc-de-Blancs-2004.html;Billecart-Salmon, Brut Blanc de Blancs, 2004;France;18305;white;dry;2004;254;white
+http://winestyle.ru/products/Bollinger-La-Grande-Annee-Rose-Brut-AOC-2004-gift-box.html;Bollinger, "La Grande Annee" Rose Brut AOC, 2004, gift box;France;19796;white;dry;2004;275;white
+http://winestyle.ru/products/Cristal-AOC-2007-gift-box.html;"Cristal" AOC, 2007, gift box;France;19941;white;dry;2007;277;white
+http://winestyle.ru/products/Louis-Roederer-Brut-Premier-Bucket-Gift-Set.html;Louis Roederer Brut Premier, Bucket Gift Set;France;20010;white;dry;NA;278;white
+http://winestyle.ru/products/Grand-Siecle-750-gift-box.html;Laurent-Perrier, Grand Siecle, gift box;France;20367;white;dry;NA;283;white
+http://winestyle.ru/products/Alexandra-Rose-Brut-1998-750.html;"Alexandra" Rose Brut 1998;France;27345;not assigned;not assigned;1998;380;not assigned
+http://winestyle.ru/products/Andre-Beaufort-Doux-Rose-Grand-Cru-1999.html;Andre Beaufort Doux Rose Grand Cru, 1999;France;20537;rose;sweet;1999;285;rose
+http://winestyle.ru/products/Cuvee-des-Enchanteleurs-1990.html;Cuvee des Enchanteleurs 1990;France;21099;white;dry;1990;293;white
+http://winestyle.ru/products/Ayala-Brut-Majeur-AOC-wooden-box.html;Ayala, "Brut Majeur" AOC, wooden box, 3000 ìë;France;22967;white;dry;3000;319;white
+http://winestyle.ru/products/Cuvee-des-Enchanteleurs-1998.html;"Cuvee des Enchanteleurs", 1998;France;23806;white;dry;1998;331;white
+http://winestyle.ru/products/Dom-Ruinart-Rose-2002-coffret.html;"Dom Ruinart" Rose, 2002, in gift box;France;24737;rose;dry;2002;344;rose
+http://winestyle.ru/products/Noble-Cuvee-de-Lanson-Brut-1995-wooden-box.html;"Noble Cuvee de Lanson" Brut, 1995, wooden box, 1500 ìë;France;26016;white;dry;1995;361;white
+http://winestyle.ru/products/Dom-Perignon-Rose-Vintage-2003-Brut-in-gift-box.html;"Dom Perignon", Rose Vintage 2003 Brut, in gift box;France;28404;rose;dry;2003;394;rose
+http://winestyle.ru/products/Armand-de-Brignac-Brut-Rose-wooden-box.html;"Armand de Brignac" Brut Rose, wooden box;France;37810;rose;dry;NA;525;rose
+http://winestyle.ru/products/Cristal-Rose-AOC-2005-gift-box.html;"Cristal" Rose AOC, 2005, gift box;France;41273;rose;dry;2005;573;rose
+http://winestyle.ru/products/Novy-Svet-NovoSvetskoe-Rose-semi-dry.html;Novy Svet, "NovoSvetskoe" Rose semi-dry;Crimea;714;rose;semi dry;NA;10;rose
+http://winestyle.ru/products/Novy-Svet-Crimean-sparkling-red-brut.html;Novy Svet, "Crimean sparkling" red, brut;Crimea;714;red;dry;NA;10;red
+http://winestyle.ru/products/Ca-Montebello-Moscato-Oltrepo-Pavese-DOC-2013.html;Ca' Montebello, Moscato, Oltrepo Pavese DOC, 2013;Italy;730;white;sweet;2013;10;white
+http://winestyle.ru/products/Ca-Montebello-Riesling-Oltrepo-Pavese-DOC-2013.html;Ca' Montebello, Riesling, Oltrepo Pavese DOC, 2013;Italy;730;white;dry;2013;10;white
+http://winestyle.ru/products/Faber-Finesse-dry.html;"Faber" Finesse dry;Germany;756;white;dry;NA;10;white
+http://winestyle.ru/products/Riccadonna-Spumante-Dolce-Asti-DOCG.html;Riccadonna, Spumante Dolce, Asti DOCG;Italy;886;white;sweet;NA;12;white
+http://winestyle.ru/products/Cantina-di-Canelli-Dacanelli-Extra-Dry.html;Cantina di Canelli, "Dacanelli" Extra Dry;Italy;820;white;dry;NA;11;white
+http://winestyle.ru/products/Canti-Asti-DOCG-2015-gift-box.html;Canti, Asti DOCG, 2015, gift box;Italy;891;white;sweet;2015;12;white
+http://winestyle.ru/products/Cantina-di-Canelli-Duebollicine-Pinot-Chardonnay.html;Cantina di Canelli, "Duebollicine" Pinot Chardonnay;Italy;867;white;dry;NA;12;white
+http://winestyle.ru/products/Batasiolo-Moscato-Spumante-Dolce.html;Batasiolo, Moscato Spumante Dolce;Italy;953;white;sweet;NA;13;white
+http://winestyle.ru/products/Morando-Il-Mossiere-Moscato-Spumante.html;Morando, "Il Mossiere" Moscato Spumante;Italy;912;white;sweet;NA;13;white
+http://winestyle.ru/products/Cinzano-Pinot-Chardonnay.html;Cinzano, Pinot Chardonnay;Italy;955;white;dry;NA;13;white
+http://winestyle.ru/products/Schlumberger-Rose-Brut-gift-box.html;Schlumberger, Rose Brut, gift box;Austria;955;rose;dry;NA;13;rose
+http://winestyle.ru/products/Perlino-Asti-DOCG.html;Perlino, Asti DOCG;Italy;958;white;sweet;NA;13;white
+http://winestyle.ru/products/Canti-Asti-DOCG-2012.html;Canti, Asti DOCG, 2012;Italy;1002;white;sweet;2012;14;white
+http://winestyle.ru/products/Canti-Asti-DOCG-2014.html;Canti, Asti DOCG, 2014;Italy;1002;white;sweet;2014;14;white
+http://winestyle.ru/products/Michel-Torino-Rose-Brut.html;"Michel Torino" Rose Brut;Argentina;1008;rose;dry;NA;14;rose
+http://winestyle.ru/products/La-Gioiosa-Rosea-Rose-Brut.html;"La Gioiosa" Rosea Rose Brut;Italy;1056;rose;dry;NA;15;rose
+http://winestyle.ru/products/Morando-Il-Mossiere-Prosecco-Extra-Dry.html;Morando, "Il Mossiere" Prosecco Extra Dry;Italy;1012;white;dry;NA;14;white
+http://winestyle.ru/products/Perlino-Asti-DOCG-gift-box.html;Perlino, Asti DOCG, gift box;Italy;1064;white;sweet;NA;15;white
+http://winestyle.ru/products/Fantinel-One-and-Only-Prosecco-Brut-Millesimato-2014.html;Fantinel, "One and Only" Prosecco Brut Millesimato, 2014;Italy;1520;not assigned;dry;2014;21;not assigned
+http://winestyle.ru/products/Andreola-Cartizze-Valdobbiadene-Superiore-di-Cartizze-DOCG-2011.html;Andreola, Cartizze, Valdobbiadene Superiore di Cartizze DOCG, 2011;Italy;1560;white;dry;2011;22;white
+http://winestyle.ru/products/Canella-Prosecco-DOC.html;Canella, Prosecco DOC;Italy;1581;white;dry;NA;22;white
+http://winestyle.ru/products/Cavas-Hill-Cava-Brut-DO.html;Cavas Hill, Cava Brut DO;Spain;1588;white;dry;NA;22;white
+http://winestyle.ru/products/Bernard-Massard-Cuvee-de-l-Ecusson-Brut.html;Bernard-Massard, "Cuvee de l'Ecusson" Brut;Luxemburg;1673;white;dry;NA;23;white
+http://winestyle.ru/products/Nino-Franco-Faive-Rose-Brut-Veneto-IGT-2011.html;Nino Franco, "Faive" Rose Brut, Veneto IGT, 2011;Italy;1730;rose;dry;2011;24;rose
+http://winestyle.ru/products/Nino-Franco-Faive-Rose-Brut-Veneto-IGT-2013.html;Nino Franco, "Faive" Rose Brut, Veneto IGT, 2013;Italy;1730;rose;dry;2013;24;rose
+http://winestyle.ru/products/Jane-Ventura-Reserva-de-la-Musica-Brut-Rose-Cava-DO-2009.html;Jane Ventura, "Reserva de la Musica" Brut Rose, Cava DO, 2009;Spain;1776;rose;dry;2009;25;rose
+http://winestyle.ru/products/Jane-Ventura-Reserva-de-la-Musica-Brut-Cava-DO-2008.html;Jane Ventura, "Reserva de la Musica" Brut, Cava DO, 2008;Spain;1776;white;dry;2008;25;white
+http://winestyle.ru/products/Ferrari-Rose-Brut-Trento-DOC.html;Ferrari Rose Brut, Trento DOC, 375 ìë;Italy;1779;rose;dry;NA;25;rose
+http://winestyle.ru/products/Cavas-Hill-Cava-Rosado-Brut-DO-gift-box.html;Cavas Hill, Cava Rosado Brut DO, gift box;Spain;1826;rose;dry;NA;25;rose
+http://winestyle.ru/products/Rotari-Talento-Cuvee-28-Trento-DOC.html;Rotari Talento Cuvee 28, Trento DOC;Italy;1892;white;dry;NA;26;white
+http://winestyle.ru/products/Santa-Margherita-52-Extra-Dry-Valdobbiadene-Prosecco-Superiore-DOCG-2013.html;Santa Margherita, "52" Extra Dry, Valdobbiadene Prosecco Superiore DOCG, 2013;Italy;1975;white;dry;2013;27;white
+http://winestyle.ru/products/Santa-Margherita-52-Extra-Dry-Valdobbiadene-Prosecco-Superiore-DOCG-2014.html;Santa Margherita, "52" Extra Dry, Valdobbiadene Prosecco Superiore DOCG, 2014;Italy;1975;white;dry;2014;27;white
+http://winestyle.ru/products/Louis-Bouillot-Perle-d-Aurore-Brut-Rose-Cremant-de-Bourgogne-AOC.html;Louis Bouillot, "Perle d'Aurore" Brut Rose, Cremant de Bourgogne AOC;France;2040;rose;dry;NA;28;rose
+http://winestyle.ru/products/Dopff-au-Moulin-Cremant-d-Alsace-Blanc-de-Noirs-Brut-2010.html;Dopff au Moulin, Cremant d'Alsace "Blanc de Noirs" Brut, 2010;France;2115;white;dry;2010;29;white
+http://winestyle.ru/products/Serafini-Vidotto-Bollicine-di-Prosecco.html;Serafini & Vidotto, Bollicine di Prosecco;Italy;2139;white;dry;NA;30;white
+http://winestyle.ru/products/Jean-Baptiste-Adam-Cremant-d-Alsace-Brut-Rose.html;Jean-Baptiste Adam, Cremant d'Alsace Brut Rose;France;2163;rose;dry;NA;30;rose
+http://winestyle.ru/products/Toques-et-Clochers-Limited-Edition-Cremant-de-Limoux-AOC-2011-gift-box.html;"Toques et Clochers" Limited Edition, Cremant de Limoux AOC, 2011, gift box;France;2168;white;dry;2011;30;white
+http://winestyle.ru/products/Toques-et-Clochers-Limited-Edition-Cremant-de-Limoux-AOC-2010-gift-box.html;"Toques et Clochers" Limited Edition, Cremant de Limoux AOC, 2010, gift box;France;2168;white;dry;2010;30;white
+http://winestyle.ru/products/Champagne-Drappier-Brut-Rose-Champagne-AOC-375.html;Champagne Drappier, Brut Rose, Champagne AOC, 375 ìë;France;3026;rose;dry;NA;42;rose
+http://winestyle.ru/products/Pierre-Moncuit-Cuvee-Pierre-Moncuit-Delos-Brut.html;Pierre Moncuit, "Cuvee Pierre Moncuit-Delos" Brut;France;3146;white;dry;NA;44;white
+http://winestyle.ru/products/Feudi-di-San-Gregorio-Dubl-Rosato-2010-gift-box.html;Feudi di San Gregorio, "Dubl" Rosato, gift box;Italy;3186;rose;dry;NA;44;rose
+http://winestyle.ru/products/Dirler-Cade-Cremant-d-Alsace-AOC-Brut-Rose.html;Dirler-Cade, Cremant d'Alsace AOC Brut Rose;France;3294;rose;dry;NA;46;rose
+http://winestyle.ru/products/Monte-Rossa-Prima-Cuvee-Brut.html;Monte Rossa, "Prima Cuvee" Brut;Italy;3426;white;dry;NA;48;white
+http://winestyle.ru/products/Cavicchioli-Figli-Rose-del-Cristo.html;Cavicchioli & Figli, Rose' del Cristo;Italy;3467;rose;dry;NA;48;rose
+http://winestyle.ru/products/Ferrari-Rose-Brut-Trento-DOC-gift-box-750.html;Ferrari Rose Brut, Trento DOC, gift box;Italy;3471;rose;dry;NA;48;rose
+http://winestyle.ru/products/Vilarnau-Gran-Reserva-Brut-Nature-Vintage-2009-gift-box.html;"Vilarnau" Gran Reserva Brut Nature Vintage, 2009, gift box;Spain;3531;white;dry;2009;49;white
+http://winestyle.ru/products/Nino-Franco-Superiore-di-Cartizze-Valdobbiadene-DOCG-2011.html;Nino Franco, "Superiore di Cartizze", Valdobbiadene DOCG, 2011;Italy;3556;white;dry;2011;49;white
+http://winestyle.ru/products/Lis-Neris-Dom-Jurosa-Brut-Blanc-de-Blanc-2009.html;Lis Neris, "Dom Jurosa" Brut Blanc de Blanc, 2009;Italy;3634;white;dry;2009;50;white
+http://winestyle.ru/products/Ferrari-Perle-Brut-2007-Trento-DOC.html;Ferrari, "Perle" Brut, 2007, Trento DOC;Italy;3654;white;dry;2007;51;white
+http://winestyle.ru/products/Monte-Rossa-P-R-Blanc-de-Blancs-Brut.html;Monte Rossa, "P.R." Blanc de Blancs Brut;Italy;3678;white;dry;NA;51;white
+http://winestyle.ru/products/Chanoine-Cuvee-Rose-Brut.html;Chanoine, "Cuvee Rose" Brut;France;3694;rose;dry;NA;51;rose
+http://winestyle.ru/products/Monte-Rossa-Prima-Cuvee-Brut-gift-box.html;Monte Rossa, "Prima Cuvee" Brut, gift box;Italy;3726;white;dry;NA;52;white
+http://winestyle.ru/products/Ruinart-Blanc-de-Blancs-2002.html;Ruinart, Blanc de Blancs, 375 ìë;France;3730;white;dry;NA;52;white
+http://winestyle.ru/products/Ferghettina-Franciacorta-Saten-Brut-DOCG-2006.html;Ferghettina Franciacorta Saten Brut DOCG 2006;Italy;3864;rose;dry;2006;54;rose
+http://winestyle.ru/products/Ferghettina-Franciacorta-Saten-Brut-DOCG-2007.html;Ferghettina, Franciacorta "Saten" Brut DOCG, 2007;Italy;3864;white;dry;2007;54;white
+http://winestyle.ru/products/Bisol-Prosecco-Cartizze-Valdobbiadene-Superiore-di-Cartizze-DOCG-Dry-Veneto-2013.html;Bisol, Prosecco Cartizze Valdobbiadene Superiore di Cartizze DOCG Dry (Veneto), 2013;Italy;3952;white;dry;2013;55;white
+http://winestyle.ru/products/Henriot-Souverain-Brut-375.html;Henriot, "Souverain" Brut, 375 ìë;France;3958;white;dry;NA;55;white
+http://winestyle.ru/products/Duval-Leroy-Brut-gift-box.html;Duval-Leroy, Brut, gift box;France;3965;white;dry;NA;55;white
+http://winestyle.ru/products/Canard-Duchene-Cuvee-Leonie-Brut-Champagne-AOC.html;Canard-Duchene, "Cuvee Leonie" Brut, Champagne AOC;France;4461;white;dry;NA;62;white
+http://winestyle.ru/products/Tribaut-Schloesser-Instant-Gourmand-gift-box.html;Tribaut Schloesser, "Instant Gourmand", gift box;France;4469;white;dry;NA;62;white
+http://winestyle.ru/products/Ferghettina-Franciacorta-Extra-Brut-DOCG-2005.html;Ferghettina, Franciacorta Extra Brut DOCG, 2005;Italy;4482;white;dry;2005;62;white
+http://winestyle.ru/products/Lanson-Black-Label-Brut-in-black-case.html;Lanson, "Black Label" Brut, in black case;France;4495;white;dry;NA;62;white
+http://winestyle.ru/products/Pierre-Moncuit-Brut-Non-Dose-2005.html;Pierre Moncuit, Brut "Non Dose", 2005;France;4509;white;dry;2005;63;white
+http://winestyle.ru/products/Pierre-Moncuit-Brut-Millesime-2005.html;Pierre Moncuit, Brut Millåsimå, 2005;France;4509;white;dry;2005;63;white
+http://winestyle.ru/products/Champagne-Veuve-Doussot-Tradition-Brut.html;Champagne Veuve Doussot, "Tradition" Brut;France;4541;white;dry;NA;63;white
+http://winestyle.ru/products/Monte-Rossa-P-R-Brut-Rose.html;Monte Rossa, "P.R." Brut Rose;Italy;4638;rose;dry;NA;64;rose
+http://winestyle.ru/products/Champagne-Serge-Mathieu-Cuvee-Prestige-Brut.html;Champagne Serge Mathieu, Cuvee Prestige Brut;France;4646;white;dry;NA;65;white
+http://winestyle.ru/products/Contadi-Castaldi-Franciacorta-Saten-2007.html;Contadi Castaldi, Franciacorta "Saten", 2007;Italy;4656;white;dry;2007;65;white
+http://winestyle.ru/products/Boizel-Tendre-Reserve.html;Boizel, Tendre Reserve;France;4662;white;semi dry;NA;65;white
+http://winestyle.ru/products/Champagne-Drappier-Brut-Nature.html;Champagne Drappier, Brut Nature;France;4663;white;dry;NA;65;white
+http://winestyle.ru/products/Canard-Duchene-Authentic-Brut-Champagne-AOC.html;Canard-Duchene, "Authentic" Brut, Champagne AOC;France;4687;white;dry;NA;65;white
+http://winestyle.ru/products/Canard-Duchene-Authentic-Demi-Sec-Champagne-AOC.html;Canard-Duchene, "Authentic" Demi-Sec, Champagne AOC;France;4687;white;semi dry;NA;65;white
+http://winestyle.ru/products/Nicolas-Feuillatte-Demi-Sec-gift-box.html;Nicolas Feuillatte, Demi-Sec, gift box;France;4735;white;semi dry;NA;66;white
+http://winestyle.ru/products/Collet-Brut-Grand-Art-gift-box.html;Collet, Brut "Grand Art", gift box;France;4736;white;dry;NA;66;white
+http://winestyle.ru/products/Contadi-Castaldi-Franciacorta-Zero-2007.html;Contadi Castaldi, Franciacorta "Zero", 2007;Italy;4753;white;dry;2007;66;white
+http://winestyle.ru/products/Giuseppe-Contratto-For-England-Pas-Dose-2007.html;Giuseppe Contratto, "For England" Pas Dose, 2007;Italy;4759;white;dry;2007;66;white
+http://winestyle.ru/products/Giuseppe-Contratto-For-England-Pas-Dose-2008.html;Giuseppe Contratto, "For England" Pas Dose, 2008, gift box;Italy;4759;white;dry;2008;66;white
+http://winestyle.ru/products/Rocche-dei-Manzoni-Valentino-Brut-Zero-Rose-Riserva-2004.html;Rocche dei Manzoni, "Valentino Brut Zero Rose" Riserva, 2004;Italy;4800;rose;dry;2004;67;rose
+http://winestyle.ru/products/Duval-Leroy-Brut-Rose-gift-box.html;Duval-Leroy, Brut Rose, gift box;France;6575;rose;dry;NA;91;rose
+http://winestyle.ru/products/Guido-Berlucchi-Cellarius-Brut-Franciacorta-DOCG-2008-gift-box.html;Guido Berlucchi, "Cellarius" Brut, Franciacorta DOCG, 2008, gift box;Italy;6627;white;dry;2008;92;white
+http://winestyle.ru/products/Bellavista-Franciacorta-Gran-Cuvee-Brut-2006.html;Bellavista, Franciacorta Gran Cuvee Brut, 2006;Italy;6630;white;dry;2006;92;white
+http://winestyle.ru/products/J-Lassalle-Special-Club-Premier-Cru-Chigny-Les-Roses-2004-gift-box.html;J. Lassalle, "Special Club", Premier Cru Chigny-Les-Roses, 2004, gift box;France;6763;white;dry;2004;94;white
+http://winestyle.ru/products/Joseph-Perrier-Cuvee-Royale-Brut-Rose-750.html;Joseph Perrier, "Cuvee Royale" Brut Rose;France;6792;rose;dry;NA;94;rose
+http://winestyle.ru/products/Nicolas-Feuillatte-Blanc-de-Blancs-Chardonnay-2006.html;Nicolas Feuillatte, Blanc de Blancs Chardonnay, 2006;France;6827;white;dry;2006;95;white
+http://winestyle.ru/products/Champagne-AR-Lenoble-Rose-Terroirs-gift-box.html;Champagne AR Lenoble, Rose "Terroirs", gift box;France;6902;rose;dry;NA;96;rose
+http://winestyle.ru/products/Canard-Duchene-Grande-Cuvee-de-la-Rose-Charles-VII-Brut-Rose-Champagne-AOC.html;Canard-Duchene, Grande Cuvee de la Rose "Charles VII" Brut Rose, Champagne AOC;France;6966;rose;dry;NA;97;rose
+http://winestyle.ru/products/Joseph-Perrier-Cuvee-Royale-Brut-Blanc-de-Blancs.html;Joseph Perrier, "Cuvee Royale" Brut Blanc de Blancs;France;6982;white;dry;NA;97;white
+http://winestyle.ru/products/Lanson-Extra-Age-Brut.html;Lanson, "Extra Age" Brut;France;6997;white;dry;NA;97;white
+http://winestyle.ru/products/Ayala-Rose-Majeur-Brut-AOC.html;Ayala, "Rose Majeur" Brut AOC;France;7112;rose;dry;NA;99;rose
+http://winestyle.ru/products/Malard-Brut-Rose-gift-box.html;Malard, Brut Rose, gift box;France;7157;rose;dry;NA;99;rose
+http://winestyle.ru/products/Bellavista-Franciacorta-Gran-Cuvee-Pas-Opere-2007-gift-box.html;Bellavista, Franciacorta Gran Cuvee "Pas Opere", 2007, gift box;Italy;7181;white;dry;2007;100;white
+http://winestyle.ru/products/Contadi-Castaldi-Franciacorta-Soul-Saten-2005-gift-box.html;Contadi Castaldi, Franciacorta "Soul Saten", 2005, gift box;Italy;7239;white;dry;2005;101;white
+http://winestyle.ru/products/Joseph-Perrier-Cuvee-Royale-Brut-Blanc-de-Blancs-gift-box.html;Joseph Perrier, "Cuvee Royale" Brut Blanc de Blancs, gift box;France;7283;white;dry;NA;101;white
+http://winestyle.ru/products/Ayala-Rose-Majeur-Brut-AOC-gift-box.html;Ayala, "Rose Majeur" Brut AOC, gift box;France;7304;rose;dry;NA;101;rose
+http://winestyle.ru/products/Herbert-Beaufort-Cuvee-La-Favorite-Bouzy-Grand-Cru-2008.html;Herbert Beaufort, "Cuvee La Favorite", Bouzy Grand Cru, 2008;France;7368;white;dry;2008;102;white
+http://winestyle.ru/products/Bellavista-Franciacorta-Gran-Cuvee-Saten-gift-box.html;Bellavista, Franciacorta Gran Cuvee "Saten", gift box;Italy;7417;white;dry;NA;103;white
+http://winestyle.ru/products/Champagne-Ployez-Jacquemart-Extra-Brut-Vintage-2005-750.html;Champagne Ployez-Jacquemart, Extra Brut Vintage, 2005;France;7436;white;dry;2005;103;white
+http://winestyle.ru/products/Bellavista-Franciacorta-Gran-Cuvee-Brut-2006-gift-box.html;Bellavista, Franciacorta Gran Cuvee Brut, 2006, gift box;Italy;7451;white;dry;2006;103;white
+http://winestyle.ru/products/Andre-Beaufort-Brut-Grand-Cru-Reserve.html;Andre Beaufort Brut Grand Cru Reserve;France;8945;white;dry;NA;124;white
+http://winestyle.ru/products/Larmandier-Bernier-Terre-de-Vertus-Non-Dose-Blanc-de-Blancs-AOC-Premier-Cru-2007.html;Larmandier-Bernier, "Terre de Vertus" Non Dose Blanc de Blancs, AOC Premier Cru, 2007;France;8945;white;dry;2007;124;white
+http://winestyle.ru/products/Larmandier-Bernier-Terre-de-Vertus-Non-Dose-Blanc-de-Blancs-AOC-Premier-Cru.html;Larmandier-Bernier, Terre de Vertus Non Dose Blanc de Blancs, AOC Premier Cru;France;8945;white;dry;NA;124;white
+http://winestyle.ru/products/Ayala-Blanc-de-Blancs-Brut-AOC-2004-gift-box.html;Ayala, Blanc de Blancs Brut AOC, 2004, gift box;France;9034;white;dry;2004;125;white
+http://winestyle.ru/products/Henriot-Brut-Millesime-2003-gift-box.html;Henriot, Brut Millesime 2003, gift box;France;9429;white;dry;2003;131;white
+http://winestyle.ru/products/Krug-Grande-Cuvee-gift-box.html;Krug, "Grande Cuvee", gift box, 375 ìë;France;9526;white;dry;NA;132;white
+http://winestyle.ru/products/Larmandier-Bernier-Extra-Brut-Rose-de-Saignee-Premier-Cru.html;Larmandier-Bernier, Extra Brut Rose de Saignee Premier Cru;France;9541;rose;dry;NA;133;rose
+http://winestyle.ru/products/Ayala-Blanc-de-Blancs-Brut-AOC-2005-gift-box.html;Ayala, Blanc de Blancs Brut AOC, 2005, gift box;France;9610;white;dry;2005;133;white
+http://winestyle.ru/products/Ayala-Blanc-de-Blancs-Brut-AOC-2007-gift-box.html;Ayala, Blanc de Blancs Brut AOC, 2007, gift box;France;9610;white;dry;2007;133;white
+http://winestyle.ru/products/Recaredo-Turo-d-En-Mota-de-Recaredo-Brut-Nature-Cava-DO-2001.html;Recaredo, "Turo d'En Mota de Recaredo" Brut Nature, Cava DO, 2001;Spain;9653;white;dry;2001;134;white
+http://winestyle.ru/products/Recaredo-Turo-d-En-Mota-de-Recaredo-Brut-Nature-Cava-DO-2002.html;Recaredo, Turo d'En Mota de Recaredo Brut Nature, Cava DO, 2002;Spain;9653;white;dry;2002;134;white
+http://winestyle.ru/products/Laurent-Perrier-Cuvee-Rose-Brut-Christmas-box.html;Laurent-Perrier, Cuvee Rose Brut, Christmas box;France;9706;rose;dry;NA;135;rose
+http://winestyle.ru/products/Ferrari-Perle-Brut-2007-Trento-DOC-metal-box.html;Ferrari, "Perle" Brut, 2007, Trento DOC, metal box, 1500 ìë;Italy;9721;white;dry;2007;135;white
+http://winestyle.ru/products/Billecart-Salmon-Cuvee-Nicolas-Francois-Billecart-1999.html;Billecart-Salmon, "Cuvee Nicolas Francois Billecart", 1999;France;9804;white;dry;1999;136;white
+http://winestyle.ru/products/Champagne-Ployez-Jacquemart-Extra-Quality-Brut.html;Champagne Ployez-Jacquemart, Extra Quality Brut, 1500 ìë;France;9842;white;dry;NA;137;white
+http://winestyle.ru/products/Deutz-Brut-Rose-2008-gift-box.html;Deutz, Brut Rose, 2008, gift box;France;9987;rose;dry;2008;139;rose
+http://winestyle.ru/products/Deutz-Brut-Rose-2009-gift-box.html;Deutz, Brut Rose, 2009, gift box;France;9987;rose;dry;2009;139;rose
+http://winestyle.ru/products/Cuvee-Annamaria-Clementi-Franciacorta-DOCG-2006.html;"Cuvee Annamaria Clementi", Franciacorta DOCG, 2006;Italy;10000;white;dry;2006;139;white
+http://winestyle.ru/products/Pol-Roger-Brut-Rose-2002-gift-box.html;Pol Roger, Brut Rose, 2002, gift box;France;10094;rose;dry;2002;140;rose
+http://winestyle.ru/products/Billecart-Salmon-Brut-2004.html;Billecart-Salmon, Brut, 2004;France;10401;white;dry;2004;144;white
+http://winestyle.ru/products/Champagne-Tarlant-Brut-Rose-Prestige-2003-wooden-box.html;Champagne Tarlant, Brut Rose Prestige, 2003, wooden box;France;12903;rose;dry;2003;179;rose
+http://winestyle.ru/products/Jacquesson-Cuvee-737-Extra-Brut.html;Jacquesson, "Cuvee ¹ 737" Extra-Brut, 1500 ìë;France;13118;white;dry;NA;182;white
+http://winestyle.ru/products/Noble-Cuvee-de-Lanson-Brut-2000.html;"Noble Cuvee de Lanson" Brut, 2000;France;13504;white;dry;2000;188;white
+http://winestyle.ru/products/Noble-Cuvee-de-Lanson-Brut-2000-gift-box.html;"Noble Cuvee de Lanson" Brut, 2000, gift box;France;13504;white;dry;2000;188;white
+http://winestyle.ru/products/Boizel-Joyau-de-France-Brut-1989.html;Boizel, "Joyau de France" Brut, 1989;France;13728;white;dry;1989;191;white
+http://winestyle.ru/products/Pol-Roger-Brut-Reserve-Extra-Cuvee-de-Reserve-gift-box-1500.html;Pol Roger, Brut Reserve, Extra Cuvee de Reserve, gift box, 1500 ìë;France;13760;white;dry;NA;191;white
+http://winestyle.ru/products/Bollinger-La-Grande-Annee-Brut-AOC-2004-gift-box.html;Bollinger, "La Grande Annee" Brut AOC, 2004, gift box;France;14319;white;dry;2004;199;white
+http://winestyle.ru/products/Ruinart-Blanc-de-Blancs-1500.html;Ruinart, "Blanc de Blancs", 1500 ìë;France;14328;white;dry;NA;199;white
+http://winestyle.ru/products/Paul-Goerg-Brut-Millesime-Premier-Cru-Cuvee-Lady-F-2002-gift-box.html;Paul Goerg, Brut Millesime Premier Cru "Cuvee Lady F.", 2002, gift box;France;14375;white;dry;2002;200;white
+http://winestyle.ru/products/Paul-Goerg-Brut-Millesime-Premier-Cru-Cuvee-Lady-F-2004-gift-box.html;Paul Goerg, Brut Millesime Premier Cru "Cuvee Lady F.", 2004, gift box;France;14375;white;dry;2004;200;white
+http://winestyle.ru/products/Brut-Grande-Reserve-wooden-box.html;Brut Grande Reserve, wooden box, 1500 ìë;France;14505;white;dry;NA;201;white
+http://winestyle.ru/products/Veuve-Clicquot-La-Grande-Dame-2004-in-gift-box-750.html;Veuve Clicquot, "La Grande Dame", 2004;France;14657;white;dry;2004;204;white
+http://winestyle.ru/products/Taittinger-Comtes-de-Champagne-Blanc-de-Blancs-Brut-2004.html;Taittinger, "Comtes de Champagne" Blanc de Blancs Brut, 2004;France;14914;white;dry;2004;207;white
+http://winestyle.ru/products/Lanson-Noble-Cuvee-Brut-Rose.html;Lanson, "Noble Cuvee" Brut Rose;France;15005;rose;dry;NA;208;rose
+http://winestyle.ru/products/Gosset-Celebris-Rose-Extra-Brut-2007.html;Gosset, "Celebris" Rose Extra Brut, 2007;France;15005;rose;dry;2007;208;rose
+http://winestyle.ru/products/Lanson-Noble-Cuvee-Brut-Rose-gift-box.html;Lanson Noble Cuvee Brut Rose, gift box;France;15005;rose;dry;NA;208;rose
+http://winestyle.ru/products/Deutz-Brut-Classic-2-Bottle-Gift-Set.html;Deutz Brut Classic 2-Bottle Gift Set;France;15092;white;dry;NA;210;white
+http://winestyle.ru/products/Taittinger-Comtes-de-Champagne-Blanc-de-Blancs-Brut-2000-gift-box.html;Taittinger, "Comtes de Champagne" Blanc de Blancs Brut, 2000, gift box;France;15431;white;dry;2000;214;white
+http://winestyle.ru/products/Malard-Lady-Style-Extra-Brut-gift-box.html;Malard, "Lady Style" Extra Brut, gift box;France;15558;white;dry;NA;216;white
+http://winestyle.ru/products/Deutz-Brut-Rose-1500.html;Deutz, Brut Rose, 1500 ìë;France;15561;rose;dry;NA;216;rose
